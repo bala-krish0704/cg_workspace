@@ -1,0 +1,5 @@
+package com.cg.productmanagementsystem.repository;
+
+public interface ProductRepository {
+
+}

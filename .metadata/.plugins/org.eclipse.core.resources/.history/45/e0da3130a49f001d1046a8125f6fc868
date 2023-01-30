@@ -1,0 +1,5 @@
+package com.cg.simplecrudapplication.entity;
+
+public class Student {
+
+}

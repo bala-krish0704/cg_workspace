@@ -1,0 +1,5 @@
+package com.cg.firstwebproject.controller;
+
+public class HelloController {
+
+}

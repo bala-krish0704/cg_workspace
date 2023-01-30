@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;HibernateConfig.java&apos; to &apos;BookAndAuthor-lib/src/main/java/com.cg.baakandauthor.config&apos;&#x0D;&#x0A;- Original project: &apos;GradelProject1-lib&apos;&#x0D;&#x0A;- Destination element: &apos;BookAndAuthor-lib/src/main/java/com.cg.baakandauthor.config&apos;&#x0D;&#x0A;- Original element: &apos;com.cg.GradelProject1.config.HibernateConfig.java&apos;" description="Copy compilation unit" destination="=BookAndAuthor-lib/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&lt;com.cg.baakandauthor.config" element1="/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&lt;com.cg.GradelProject1.config{HibernateConfig.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1674450996077" units="1" version="1.0"/>
+</session>

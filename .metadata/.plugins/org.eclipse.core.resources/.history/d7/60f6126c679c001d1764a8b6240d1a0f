@@ -1,0 +1,5 @@
+package com.cg.springboothibernateproject.repository;
+
+public interface EmployeeRepository {
+
+}
